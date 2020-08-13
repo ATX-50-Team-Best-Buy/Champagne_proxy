@@ -1,1 +1,1 @@
-# photos_proxy
+This is a proxy server
